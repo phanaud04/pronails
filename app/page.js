@@ -413,28 +413,28 @@ export default function Home() {
 
             <div className="contact-detail">
               <span className="det-label">Address</span>
-              <p>123 Queen Anne Ave N<br />Seattle, WA 98109</p>
+              <p>1523 Queen Anne Ave N<br />Seattle, WA 98109</p>
             </div>
             <div className="contact-detail">
               <span className="det-label">Phone</span>
-              <a href="tel:+12065550182">(206) 555-0182</a>
+              <a href="tel:+12065550182">(206) 270-9999</a>
             </div>
             <div className="contact-detail">
               <span className="det-label">Email</span>
-              <a href="mailto:hello@pronailsseattle.com">hello@pronailsseattle.com</a>
+              <a href="mailto:pronails@queenannellc.com">pronails@queenannellc.com</a>
             </div>
             <div className="contact-detail">
               <span className="det-label">Hours</span>
-              <p>Monday – Friday: 9:00 AM – 7:00 PM<br />Saturday: 9:00 AM – 6:00 PM<br />Sunday: 10:00 AM – 5:00 PM</p>
+              <p>Monday – Friday: 10:00 AM – 7:00 PM<br />Saturday: 9:00 AM – 6:00 PM<br />Sunday: 10:00 AM – 6:00 PM</p>
             </div>
             <div className="contact-detail">
               <span className="det-label">Walk-Ins</span>
-              <p>Always welcome, subject to availability.<br />Appointments recommended on weekends.</p>
+              <p>Walk-ins welcome, subject to availability.<br />Appointments recommended on weekends.</p>
             </div>
 
             <div className="map-placeholder">
-              <p>Map: 123 Queen Anne Ave N, Seattle</p>
-              <a href="https://maps.google.com" target="_blank" rel="noopener">Open in Google Maps ↗</a>
+              <p>Map: 1523 Queen Anne Ave N, Seattle</p>
+              <a href="https://maps.google.com/?q=1523+Queen+Anne+Ave+N,+Seattle,+WA+98109" target="_blank" rel="noopener">Open in Google Maps ↗</a>
             </div>
           </div>
 
@@ -444,13 +444,13 @@ export default function Home() {
               <div className="instagram-card-photo">
                 <img src="/images/nail3.png" alt="Nail art at Pro Nails" />
                 <div className="instagram-card-overlay">
-                  <p className="instagram-card-caption">&ldquo;The nail art here is stunning.&rdquo;</p>
+                  <p className="instagram-card-caption"></p>
                 </div>
               </div>
               <div className="instagram-card-body">
                 <h3 className="instagram-card-title">Find us on Instagram</h3>
                 <p>Follow along for nail art inspiration, new styles, and a look inside Pro Nails.</p>
-                <a href="https://instagram.com/pronailsseattle" target="_blank" rel="noopener" className="instagram-btn">@pronailsseattle →</a>
+                <a href="https://instagram.com/pronails_queenanne" target="_blank" rel="noopener" className="instagram-btn">@pronails_queenanne →</a>
               </div>
             </div>
 
@@ -506,9 +506,8 @@ export default function Home() {
         <div className="footer-main">
           <div>
             <img src="/brand_assets/Pronails_logo.png" alt="Pro Nails" className="footer-brand-logo" />
-            <p className="footer-tagline">Queen Anne&#39;s neighborhood nail salon. Warm, welcoming, and here for over 20 years.</p>
             <div className="footer-social">
-              <a href="#" aria-label="Instagram">
+              <a href="https://instagram.com/pronails_queenanne" target="_blank" rel="noopener" aria-label="Instagram">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.8" fill="currentColor" stroke="none"/></svg>
               </a>
               <a href="#" aria-label="Facebook">
@@ -531,11 +530,11 @@ export default function Home() {
           </div>
           <div className="footer-col">
             <h4>Hours</h4>
-            <p>Mon – Fri: 9am – 7pm<br />Saturday: 9am – 6pm<br />Sunday: 10am – 5pm</p>
+            <p>Mon – Fri: 10am – 7pm<br />Saturday: 9am – 6pm<br />Sunday: 10am – 6pm</p>
           </div>
           <div className="footer-col">
             <h4>Visit Us</h4>
-            <p>123 Queen Anne Ave N<br />Seattle, WA 98109<br /><br />(206) 555-0182<br />hello@pronailsseattle.com</p>
+            <p>1523 Queen Anne Ave N<br />Seattle, WA 98109<br /><br />(206) 270-9999<br />pronails@queenannellc.com</p>
           </div>
         </div>
         <div className="footer-bottom">
