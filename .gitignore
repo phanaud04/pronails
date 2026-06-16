@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment files — never commit these
+.env
+.env.local
+.env.*.local
+
+# Credentials
+credentials.json
+token.json
+
+# Temporary files
+.tmp/
+
+# OS
+.DS_Store
+**/.DS_Store
+
+# Debug
+npm-debug.log*
